@@ -1,2 +1,9 @@
 # PL-Dashboard
 Developed a Premier League analytics project by scraping seasonal data with Python to build an interactive Power BI dashboard and a custom rating matrix for over 500 players. This dashboard visualizes team performance and ranks individuals using specialized models for different positions.
+
+Check out project images at [Anoosh Solayappan's](https://www.linkedin.com/in/anoosh-solayappan/) LinkedIn profile.
+
+- Scraped detailed player and team performance data from FBref for the 2024-2025 Premier League season, extracting more than 50 key underlying metrics using Python.
+- Designed and developed an interactive Power BI dashboard featuring over 15 dynamic visualizations to present actionable performance insights and trends for all 20 Premier League clubs.
+- Created a detailed player performance comparison matrix, enabling the ranking and comparison of over 500 Premier League players based on 10+ key performance indicators (KPIs).
+- Analyzed both outfield players and goalkeepers separately, developing customized evaluation models that improved the accuracy of performance ratings within the dataset by an estimated 20%.
